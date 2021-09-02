@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gvauco
-- 👀 I’m interested in web development
+- 👀 I’m interested in Ethereum blockchain development
 - 🌱 I’m currently learning HTML5, CSS3 and Javascript on "The Odin Proyect"
 
 
